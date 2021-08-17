@@ -1,0 +1,31 @@
+
+body{
+    width: 77.5%;
+    border: 5px solid salmon;
+    left : 20%;
+    transform: translate(10%, 10%);
+    background-color: silver;
+
+}
+.col-lg-3 :hover{
+    border: 5px solid slategray;
+}
+img{
+    width: 262px;
+    height: 250px;
+}
+.row{
+    margin: 5px;
+    padding: 5px;
+margin-bottom: 10px;
+}
+.tex{
+    border: 2px solid salmon;
+    text-align: center;
+    
+}
+.container{
+background-color: snow;
+margin: 0;
+padding: 0%;
+}
