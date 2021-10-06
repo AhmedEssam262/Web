@@ -13,6 +13,7 @@ Website using HTML,CSS
       
 # Project Three
 ## Login for AlAhly Fans
+### Note : for more details in this project use a PC
       https://e86e78cviy3ws8svgudctg-on.drv.tw/ALAHLY Website/project.html
       
       
