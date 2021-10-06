@@ -1,0 +1,111 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background: #070c0f;
+  margin: 0;
+  padding: 0;
+  border-spacing: 0;
+}
+h4 {
+  color: aquamarine;
+}
+div {
+  padding: 0;
+  margin: 0;
+}
+a {
+  text-decoration-line: none;
+}
+a:hover {
+  text-decoration-line: none;
+  color: yellowgreen;
+}
+.pb {
+  color: darkkhaki;
+  font-size: 22px;
+}
+h1 {
+  color: black;
+}
+.logo {
+  width: 40px;
+  height: 30px;
+  margin: 0;
+  padding: 0;
+}
+li {
+  color: aliceblue;
+  font-size: 18px;
+}
+.image {
+  max-width: 200px;
+  width: auto;
+
+  height: auto;
+}
+
+.para {
+  color: honeydew;
+  font-size: 18px;
+}
+.parah {
+  color: crimson;
+  font-size: 22px;
+}
+.parah:hover {
+  color: lightblue;
+}
+.container,
+img {
+  display: inline;
+  width: 300px;
+  height: auto;
+  padding: 10px;
+}
+.b {
+  background: url("ph1.jpeg") no-repeat;
+
+  background-size: 100% 100%;
+}
+#hh {
+  color: white;
+  text-align: center;
+}
+
+#msg {
+  font-size: 20px;
+  background-color: lightgrey;
+  border: slategray 3px solid;
+  width: 300px;
+  height: 50px;
+  border-radius: 20px;
+}
+.carousel-indicators li {
+  border-color: #f4511e;
+}
+.carousel-indicators li.active {
+  background-color: #f4511e;
+}
+
+.item h4 {
+  text-shadow: 2px 2px azure;
+  font-size: 40px;
+  line-height: 1.375em;
+  font-weight: 400;
+  font-style: italic;
+  margin: 70px 0;
+}
+.item span {
+  font-style: normal;
+}
+.row {
+  border: 5px azure solid;
+  border-spacing: 50px;
+  border-radius: 50px;
+  border-bottom: 10px solid aliceblue;
+  border-left: 10px solid aliceblue;
+  margin: 8px;
+}
+/**/
