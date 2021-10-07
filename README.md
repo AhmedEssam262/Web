@@ -10,8 +10,7 @@
 # Project Two
 ## A website for AlAhly Fans
 ### Using HTML, CSS
-      https://e86e78cviy3ws8svgudctg-on.drv.tw/ALAHLY Website/
-      
+      https://e86e78cviy3ws8svgudctg-on.drv.tw/ALAHLY%20Web/
       
       
 # Project Three
